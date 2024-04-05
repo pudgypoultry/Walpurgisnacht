@@ -1,0 +1,17 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl metalPurple(Clone)
+Kd 0.01960779 0 0.4156863
+
+newmtl metalDark(Clone)
+Kd 0.01960779 0 0.4156863
+
+newmtl _defaultMat(Clone)
+Kd 0 0 0
+
+newmtl dark(Clone)
+Kd 0.224 0.235 0.275
+
+newmtl shield(Clone)
+Kd 0.18 0.196 0.259
+
